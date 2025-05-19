@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHnq7jSg9RReiKfB5W32q5jbfajvRT5vM9Sg&s" width="1000px" alt="Banner of a developer sitting in front of a desk">
+<img src="https://zidiolearning.in/public/uploads/main/files/09-02-2025/644a18b637053fa3709c5ba2_what-is-data-science.jpg" width="1000px" alt="Banner of a developer sitting in front of a desk">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4E71FF&duration=4000&lines=NNAMASTE+SABHI!+👋👋;+I'm+Varun+Rao!;" />
 </h1>
