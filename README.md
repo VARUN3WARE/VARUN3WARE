@@ -6,7 +6,7 @@
 ### 🚀 A passionate **Data Science & AI enthusiast**  from 🇮🇳 India🇮🇳, building intelligent systems with a love for clean UI, deep models, and dad jokes.
 
 
-- 🌱 I’m currently Exploring **[DEEP LEARNING](https://aws.amazon.com/what-is/deep-learning/)** and  **[MLOps](https://roadmap.sh/mlops)**
+- 🌱 I’m currently Exploring **[DEEP LEARNING](https://aws.amazon.com/what-is/deep-learning/)**, **[AI Integration](https://www.crewai.com/)** and  **[MLOps](https://roadmap.sh/mlops)**
 - 💬 Ask me about **Python, Data Science, ML...or anything [here](https://github.com/varunrao-ai/varunrao-ai/issues)**
 
 <br>
