@@ -1,9 +1,34 @@
+<!-- 🧮 Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=VARUN3WARE&label=Profile%20views&color=blueviolet&style=flat-square" alt="VARUN3WARE" />
+</p>
 <img src="https://zidiolearning.in/public/uploads/main/files/09-02-2025/644a18b637053fa3709c5ba2_what-is-data-science.jpg" width="1000px" alt="Banner of a developer sitting in front of a desk">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4E71FF&duration=4000&lines=NNAMASTE+SABHI!+👋👋;+I'm+Varun+Rao!;" />
 </h1>
 
+<!-- EXCITED CHARACTERS (Horizontal) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emNmOWRhNTJhdXprdmo0bHZhenpiZjIwcjY4d3EwNTJuMzBteHBxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHG5KGFxSkUWw1i/giphy.gif" width="150" height="75">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGR0ZGxoZWtnY3hucnNmOG5naXFiOGxsbXUxeXZpaGo1ejIwM3IzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYc2axjCJNsCXyE/giphy.gif" width="150" height="75">&nbsp;
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG01eWd0aGhrcGI4aWExa3EyYjE3dXp4cnJnZ3JrbDkweDJrb3kxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="150" height="75">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ0dm5vOXY2NmgyNDhrNDl4NXJvaGNiMGlrbDY5NG1wZHpudWRhYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6WyINXd0MM5GqWicnj/giphy.gif" width="150" height="75">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2EyZTl1NjZhbGY4dWt6b3phcnl2OGczNG95azB1N3o0cmFzbzJvcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zoTHLilvdrK8Wg7v3w/giphy.gif" width="150" height="75">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2EyZTl1NjZhbGY4dWt6b3phcnl2OGczNG95azB1N3o0cmFzbzJvcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u8ALWUw9TdvuVpLOus/giphy.gif" width="150" height="75">
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enZsdDF3NXZjd3VsanF4cWJscmc2NGt3dHI3ODB1ZWs1bDFnaWM2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3mJEekHXkjSCnWGTym/giphy.gif" width="80" height="75">
+
+</p>
+
+
+
+
+
+
+
 ### 🚀 A passionate **Data Science & AI enthusiast**  from 🇮🇳 India🇮🇳, building intelligent systems with a love for clean UI, deep models, and dad jokes.
+<!-- HI FUN CHARACTER -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmY4aXBjMG43OG9sc3F5NDE5cGQ3cmo1ODgzaW5raG9raTAxMDNvNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SXyDYS8HSWfaMTmKGJ/giphy.gif" align="right" width="15%" alt="waving-character">
 
 
 - 🌱 I’m currently Exploring **[DEEP LEARNING](https://aws.amazon.com/what-is/deep-learning/)**, **[AI Integration](https://www.crewai.com/)** and  **[MLOps](https://roadmap.sh/mlops)**
@@ -27,10 +52,12 @@
 </div>
 
 <hr>
-
 ## 🧠 Languages and Tools – Data Science & AI Focused
 
 <br>
+<!-- HI FUN CHARACTER -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZ0cXRkNnQ5bDZ1MmRlNG11cTg1a3J1MXAweTM5czNiemx6emZrbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KxzwnLpoQ20vezTRAo/giphy.gif" align="right" width="15%" alt="waving-character">
+
 
 <p align="center">
   <!-- Core Languages -->
@@ -66,11 +93,18 @@
 ## ⚡️ Stats
 
 <br>
+<!-- 📊 MY GITHUB STATS -->
+<!-- <div align="center"> -->
+  <!-- GitHub Profile Stats -->
+<p align="left">  <img width="390" src="https://github-readme-stats.vercel.app/api?username=VARUN3WARE&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="VARUN3WARE's GitHub Stats" />
+</p>
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=VARUN3WARE&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="VARUN3WARE's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=VARUN3WARE&theme=transparent&count_private=true&border_radius=10&locale=en" alt="VARUN3WARE's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=VARUN3WARE&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="VARUN3WARE's Most Used Languages" />
-</div>
+  <!-- GitHub Streak Stats -->
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=VARUN3WARE&theme=tokyonight&count_private=true&border_radius=10&locale=en" alt="VARUN3WARE's Streak Stats" />
+  
+  <!-- Most Used Languages -->
+<p align="left">   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=VARUN3WARE&theme=tokyonight&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="VARUN3WARE's Most Used Languages" />
+</p>
 
 <hr>
+
