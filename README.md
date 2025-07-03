@@ -91,20 +91,24 @@
 <hr>
 
 ## ⚡️ Stats
+<!--  HI PIKACHU  -->
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M296bjQyaGJlcmI0eXh2ZHNteHB4Nm5lMWVsZWNrbDVvZXBpdXJodiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x2Y1hQrUUIYGFaEUsL/giphy.gif" align="right" width="15%" alt="himiym">
+
+<!--  MY GITHUB STAT  -->
+<p>  <img src="https://github-readme-stats.vercel.app/api?username=VARUN3WARE&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" alt="VARUN3WARE's GitHub Stats" /> </p>
+
+
+<!--  CAT  -->
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXo0OWY0dzI4cjdjYzYyNms2enozOWRldHFxbGRpZHc2NzBhcjYxcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SGVGR33dqDMtF0Cwz1/giphy.gif" width="22%" alt="coder fox">
+
+<!--  LANGUAGES USED  -->
+<p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN3WARE&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
 
 <br>
-<!-- 📊 MY GITHUB STATS -->
-<!-- <div align="center"> -->
-  <!-- GitHub Profile Stats -->
-<p align="left">  <img width="390" src="https://github-readme-stats.vercel.app/api?username=VARUN3WARE&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="VARUN3WARE's GitHub Stats" />
+<p align="centre">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=VARUN3WARE&theme=tokyonight&count_private=true&border_radius=10&locale=en" alt="VARUN3WARE's Streak Stats" />
 </p>
 
-  <!-- GitHub Streak Stats -->
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=VARUN3WARE&theme=tokyonight&count_private=true&border_radius=10&locale=en" alt="VARUN3WARE's Streak Stats" />
-  
-  <!-- Most Used Languages -->
-<p align="left">   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=VARUN3WARE&theme=tokyonight&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="VARUN3WARE's Most Used Languages" />
-</p>
 
 <hr>
 
