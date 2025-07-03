@@ -95,14 +95,14 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M296bjQyaGJlcmI0eXh2ZHNteHB4Nm5lMWVsZWNrbDVvZXBpdXJodiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x2Y1hQrUUIYGFaEUsL/giphy.gif" align="right" width="15%" alt="himiym">
 
 <!--  MY GITHUB STAT  -->
-<p>  <img src="https://github-readme-stats.vercel.app/api?username=VARUN3WARE&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" alt="VARUN3WARE's GitHub Stats" /> </p>
+<p>  <img src="https://github-readme-stats.vercel.app/api?username=VARUN3WARE&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=tokyonight&hide=issues&hide_border=true&hide_title=true,contribs" alt="VARUN3WARE's GitHub Stats" /> </p>
 
 
 <!--  CAT  -->
 <img align="left" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXo0OWY0dzI4cjdjYzYyNms2enozOWRldHFxbGRpZHc2NzBhcjYxcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SGVGR33dqDMtF0Cwz1/giphy.gif" width="22%" alt="coder fox">
 
 <!--  LANGUAGES USED  -->
-<p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN3WARE&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
+<p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN3WARE&custom_title=Languages%20I%20have%20used&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" /> </p>
 
 <br>
 <p align="centre">
