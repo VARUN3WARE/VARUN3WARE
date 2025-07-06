@@ -55,6 +55,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </div>
 
 <hr>
+
 ## 🧠 Languages and Tools – Data Science & AI Focused
 
 <br>
