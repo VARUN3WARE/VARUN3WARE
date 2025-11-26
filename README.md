@@ -1,25 +1,25 @@
 <!-- 🧮 Profile Views -->
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=VARUN3WARE&label=Profile%20views&color=blueviolet&style=flat-square" alt="VARUN3WARE" />
-</p>
-<img src="https://zidiolearning.in/public/uploads/main/files/09-02-2025/644a18b637053fa3709c5ba2_what-is-data-science.jpg" width="1000px" alt="Banner of a developer sitting in front of a desk">
+</p> -->
+<!-- <img src="https://zidiolearning.in/public/uploads/main/files/09-02-2025/644a18b637053fa3709c5ba2_what-is-data-science.jpg" width="1000px" alt="Banner of a developer sitting in front of a desk"> -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4E71FF&duration=4000&lines=NNAMASTE+SABHI!+👋👋;+I'm+Varun+Rao!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4E71FF&duration=4000&lines=NNAMASTE!+👋👋;+I'm+Varun+Rao!;" />
 </h1>
 
 <!-- EXCITED CHARACTERS (Horizontal) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emNmOWRhNTJhdXprdmo0bHZhenpiZjIwcjY4d3EwNTJuMzBteHBxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHG5KGFxSkUWw1i/giphy.gif" width="150" height="75">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGR0ZGxoZWtnY3hucnNmOG5naXFiOGxsbXUxeXZpaGo1ejIwM3IzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYc2axjCJNsCXyE/giphy.gif" width="150" height="75">&nbsp;
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2EyZTl1NjZhbGY4dWt6b3phcnl2OGczNG95azB1N3o0cmFzbzJvcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u8ALWUw9TdvuVpLOus/giphy.gif" width="150" height="75">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ0dm5vOXY2NmgyNDhrNDl4NXJvaGNiMGlrbDY5NG1wZHpudWRhYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6WyINXd0MM5GqWicnj/giphy.gif" width="150" height="75">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2EyZTl1NjZhbGY4dWt6b3phcnl2OGczNG95azB1N3o0cmFzbzJvcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zoTHLilvdrK8Wg7v3w/giphy.gif" width="150" height="75">
-</p>
-
-
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+</p> -->
 
-<a href="https://www.buymeacoffee.com/varunrao_00" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+<!-- <a href="https://www.buymeacoffee.com/varunrao_00" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 
 
