@@ -166,34 +166,7 @@ graph LR
 
 ---
 
-## 🌟 Why Work With Me?
 
-<table>
-<tr>
-<td>
-
-### 🎯 For Hiring Managers
-
-✅ **Proven Track Record**: Production ML systems at scale  
-✅ **Fast Learner**: New frameworks? Give me a weekend  
-✅ **Team Player**: Clear docs, clean code, collaborative mindset  
-✅ **Business Focused**: ROI > Cool tech (but cool tech is nice too)
-
-</td>
-<td>
-
-### 🚀 For Tech Leads
-
-✅ **System Thinker**: End-to-end architecture design  
-✅ **Performance Driven**: 3-5x optimization is standard  
-✅ **Quality Obsessed**: Tests, monitoring, documentation  
-✅ **Mentor Ready**: Love teaching and leveling up teams
-
-</td>
-</tr>
-</table>
-
----
 
 ## 💬 Let's Talk About
 
