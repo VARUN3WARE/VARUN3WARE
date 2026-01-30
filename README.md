@@ -1,4 +1,6 @@
 <div align="center">
+  
+
 
 # 👋 Namaste! I'm Varun Rao
 
@@ -88,6 +90,10 @@ class VarunRao:
 ---
 
 ## 📈 GitHub Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VARUN3WARE&bg_color=0D1117&color=6366F1&line=F59E0B&point=FFFFFF&hide_border=true)
+
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VARUN3WARE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" width="48%" />
@@ -143,7 +149,8 @@ graph LR
 </div>
 
 ---
-
+<div align="center">
+  
 
 
 ### ⭐ If you find my work valuable, star my repositories!
@@ -153,6 +160,9 @@ graph LR
 ---
 
 <img src="https://komarev.com/ghpvc/?username=VARUN3WARE&label=Profile%20Views&color=6366F1&style=flat-square" alt="profile views" />
+
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 *Last Updated: December 2024*
 
