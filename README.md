@@ -94,11 +94,12 @@ class VarunRao:
 
 
 
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VARUN3WARE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARUN3WARE&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" width="48%" />
-</div>
+  <img src="https://streak-stats.demolab.com?user=VARUN3WARE&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" width="48%" />
+</p>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN3WARE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" width="45%" />
