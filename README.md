@@ -93,6 +93,9 @@ class VarunRao:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VARUN3WARE&bg_color=0D1117&color=6366F1&line=F59E0B&point=FFFFFF&hide_border=true)
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VARUN3WARE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" width="48%" />
+</p>
 
 ![Streak](https://github-profile-summary-cards.vercel.app/api/cards/streak?username=VARUN3WARE)
 
