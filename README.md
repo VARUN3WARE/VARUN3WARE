@@ -94,10 +94,7 @@ class VarunRao:
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VARUN3WARE" />
-  <img src="https://streak-stats.demolab.com?user=VARUN3WARE&cacheBust=1" />
-</p>
+![Streak](https://github-profile-summary-cards.vercel.app/api/cards/streak?username=VARUN3WARE)
 
 
 
