@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Systems+Builder;Scaling+LLMs+%26+Agentic+Architectures;500%2B+Readers+Monthly+on+Medium;Open+Source+Contributor+%26+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Systems+Builder;Scaling+LLMs+%26+Agentic+Architectures;600%2B+Readers+Monthly+on+Medium;Open+Source+Contributor+%26+Problem+Solver)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 
