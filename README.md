@@ -235,7 +235,7 @@ Growing Community     🌱   ████████░░░░░░░░░
   <img src="https://img.shields.io/badge/GitHub-Ask_Me_Anything-1f425f?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://medium.com/@varunrao-ai">
+<a href="https://medium.com/@varunrao.aiml">
   <img src="https://img.shields.io/badge/Medium-Follow-00ab6c?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
