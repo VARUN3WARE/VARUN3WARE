@@ -172,7 +172,7 @@ class VarunRao:
 
 <div align="center">
 
-<a href="https://medium.com/@varunrao-ai" target="_blank">
+<a href="https://medium.com/@varunrao.aiml" target="_blank">
   <img src="https://img.shields.io/badge/70%2B_Articles-Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 &nbsp;
@@ -212,7 +212,7 @@ Growing Community     🌱   ████████░░░░░░░░░
 </table>
 
 <div align="center">
-<a href="https://medium.com/@varunrao-ai" target="_blank">
+<a href="https://medium.com/@varunrao.aiml" target="_blank">
   <img src="https://img.shields.io/badge/📖_Read_My_Articles_on_Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 </div>
