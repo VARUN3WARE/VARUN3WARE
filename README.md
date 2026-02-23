@@ -160,11 +160,11 @@ class VarunRao:
 </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=VARUN3WARE&rank=SECRET&wantAll=true&theme=radical&no-bg=true&no-frame=true&column=6" width="80%"/>
 
-</div>
+</div> -->
 
 ---
 
