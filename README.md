@@ -104,17 +104,6 @@ Led workshops, hackathons, and study groups promoting applied ML and research-or
 - Won $400 in single-day ML hackathon sprint
 - Actively building Human Slop with co-founder
 - Accepted into YC Startup School India
-
----
-
-## Connect
-
-- 📧 Email: varunr@iitbhilai.ac.in
-- 💼 LinkedIn: [linkedin.com/in/varun-rao-iit-gd-py](https://www.linkedin.com/in/varun-rao-iit-gd-py/)
-- 📝 Medium: [@varunrao.aiml](https://medium.com/@varunrao.aiml)
-- 🐦 Twitter: [@VarunrRao](https://x.com/VarunrRao)
-- 🔗 Portfolio: [varun-rao.netlify.app](https://varun-rao.netlify.app/)
-
 ---
 
 > "Reducing loss functions in both code and real-world problems."
