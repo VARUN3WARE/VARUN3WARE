@@ -92,17 +92,8 @@ Led workshops, hackathons, and study groups promoting applied ML and research-or
 🎯 **Winner** — Pixel Perfect Hackathon (IIT Bhilai) — Improved baseline by 23%  
 📊 **Top 10%** — Data Science Bootcamp (IIT Guwahati) — Ranked among 500+ participants  
 ✍️ **Technical Writer** — 70+ articles on Medium, 800+ monthly readers  
-🚀 **YC Startup School India** — Selected for Bengaluru Cohort 2026
+🚀 **YC Startup School India** — Bengaluru 2026
 
----
-
-## Recent Highlights
-
-**March 2026:**
-- Approached by two YC-backed companies for specialized programs
-- Won $400 in single-day ML hackathon sprint
-- Actively building Human Slop with co-founder
-- Accepted into YC Startup School India
 ---
 
 > "Reducing loss functions in both code and real-world problems."
