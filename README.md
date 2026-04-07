@@ -2,7 +2,7 @@
 
 **AI/ML Engineer** | Building production systems that scale | Training models at 3 AM
 
-Currently pursuing B.Tech in Data Science & AI at IIT Bhilai | YC Startup School India Cohort
+Currently pursuing B.Tech in Data Science & AI at IIT Bhilai
 
 [![Medium](https://img.shields.io/badge/Medium-70%2B%20Articles-00ab6c?logo=medium)](https://medium.com/@varunrao.aiml)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/varun-rao-iit-gd-py/)
@@ -86,13 +86,13 @@ Led workshops, hackathons, and study groups promoting applied ML and research-or
 
 ## Achievements
 
- **Kaggle Silver Medal** — MITSUI & CO. Commodity Prediction Challenge (Rank 36/1,711)  
- **Kaggle Top 10%** — GQ Volatility Forecasting (Rank 34/386)  
- **Amazon ML Challenge 2025** — All-India Rank 278  
- **Winner** — Pixel Perfect Hackathon (IIT Bhilai) — Improved baseline by 23%  
- **Top 10%** — Data Science Bootcamp (IIT Guwahati) — Ranked among 500+ participants  
- **Technical Writer** — 70+ articles on Medium, 800+ monthly readers  
- **YC Startup School India** — Bengaluru 2026
+-  **Kaggle Silver Medal** — MITSUI & CO. Commodity Prediction Challenge (Rank 36/1,711)  
+-  **Kaggle Top 10%** — GQ Volatility Forecasting (Rank 34/386)  
+-  **Amazon ML Challenge 2025** — All-India Rank 278  
+-  **Winner** — Pixel Perfect Hackathon (IIT Bhilai) — Improved baseline by 23%  
+-  **Top 10%** — Data Science Bootcamp (IIT Guwahati) — Ranked among 500+ participants  
+-  **Technical Writer** — 70+ articles on Medium, 800+ monthly readers  
+-  **YC Startup School India** — Bengaluru 2026
 
 ---
 
