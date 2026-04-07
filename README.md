@@ -14,11 +14,11 @@ Currently pursuing B.Tech in Data Science & AI at IIT Bhilai | YC Startup School
 
 I build AI systems that work in production, not just in notebooks. My focus is on LLMs, multi-agent architectures, and making ML models actually deployable at scale.
 
-- 🔭 **Currently Building:** [Human Slop](https://humanslop.in) — Anti-AI social platform with hardware-bound authentication
-- 📦 **Published:** [pytorch-dml](https://pypi.org/project/pytorch-dml/) — Deep Mutual Learning library on PyPI
-- ✍️ **Writing:** 70+ ML/AI articles on Medium with 800+ monthly readers
-- 🏆 **Recent Win:** Silver Medal on Kaggle (Rank 36/1,711) in MITSUI Commodity Prediction Challenge
-- 🚀 **Accepted into:** YC Startup School India (Bengaluru Cohort)
+-  **Currently Building:** [Human Slop](https://humanslop.in) — Anti-AI social platform with hardware-bound authentication
+-  **Published:** [pytorch-dml](https://pypi.org/project/pytorch-dml/) — Deep Mutual Learning library on PyPI
+-  **Writing:** 70+ ML/AI articles on Medium with 800+ monthly readers
+-  **Recent Win:** Silver Medal on Kaggle (Rank 36/1,711) in MITSUI Commodity Prediction Challenge
+-  **Accepted into:** YC Startup School India (Bengaluru Cohort)
 
 ---
 
@@ -86,16 +86,16 @@ Led workshops, hackathons, and study groups promoting applied ML and research-or
 
 ## Achievements
 
-🥈 **Kaggle Silver Medal** — MITSUI & CO. Commodity Prediction Challenge (Rank 36/1,711)  
-🏆 **Kaggle Top 10%** — GQ Volatility Forecasting (Rank 34/386)  
-🏅 **Amazon ML Challenge 2025** — All-India Rank 278  
-🎯 **Winner** — Pixel Perfect Hackathon (IIT Bhilai) — Improved baseline by 23%  
-📊 **Top 10%** — Data Science Bootcamp (IIT Guwahati) — Ranked among 500+ participants  
-✍️ **Technical Writer** — 70+ articles on Medium, 800+ monthly readers  
-🚀 **YC Startup School India** — Bengaluru 2026
+ **Kaggle Silver Medal** — MITSUI & CO. Commodity Prediction Challenge (Rank 36/1,711)  
+ **Kaggle Top 10%** — GQ Volatility Forecasting (Rank 34/386)  
+ **Amazon ML Challenge 2025** — All-India Rank 278  
+ **Winner** — Pixel Perfect Hackathon (IIT Bhilai) — Improved baseline by 23%  
+ **Top 10%** — Data Science Bootcamp (IIT Guwahati) — Ranked among 500+ participants  
+ **Technical Writer** — 70+ articles on Medium, 800+ monthly readers  
+ **YC Startup School India** — Bengaluru 2026
 
 ---
 
 > "Reducing loss functions in both code and real-world problems."
 
-⭐ If you find my work valuable, consider starring my repositories!
+ If you find my work valuable, consider starring my repositories!
