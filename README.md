@@ -17,8 +17,8 @@ I build AI systems that work in production, not just in notebooks. My focus is o
 -  **Currently Building:** [Human Slop](https://humanslop.in) — Anti-AI social platform with hardware-bound authentication
 -  **Published:** [pytorch-dml](https://pypi.org/project/pytorch-dml/) — Deep Mutual Learning library on PyPI
 -  **Writing:** 70+ ML/AI articles on Medium with 800+ monthly readers
--  **Recent Win:** Silver Medal on Kaggle (Rank 36/1,711) in MITSUI Commodity Prediction Challenge
--  **Accepted into:** YC Startup School India (Bengaluru Cohort)
+-  **Recent Won:** Silver Medal on Kaggle (Rank 36/1,711) in MITSUI Commodity Prediction Challenge
+
 
 ---
 
