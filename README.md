@@ -64,7 +64,7 @@ Led 8-member team building multi-agent financial AI system combining real-time s
 Built multi-agent automation systems and cloud APIs on AWS/GCP. Reduced manual effort by 40%, maintained 99.9% uptime, cut infrastructure costs by 25%.
 
 **Coordinator** — Data Science & AI Club, IIT Bhilai  
-Led workshops, hackathons, and study groups promoting applied ML and research-oriented projects.
+Led workshop,and hackathons promoting ML culture within the college.
 
 ---
 
