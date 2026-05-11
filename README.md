@@ -5,7 +5,7 @@
 Currently pursuing B.Tech in Data Science & AI at IIT Bhilai
 
 [![Medium](https://img.shields.io/badge/Medium-70%2B%20Articles-00ab6c?logo=medium)](https://medium.com/@varunrao.aiml)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/varun-rao-iit-gd-py/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/varun3ware/)
 [![Email](https://img.shields.io/badge/Email-varunr%40iitbhilai.ac.in-EA4335?logo=gmail)](mailto:varunr@iitbhilai.ac.in)
 
 ---
