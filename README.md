@@ -1,6 +1,6 @@
 # Varun Rao
 
-**AI/ML Engineer** | Building production systems that scale | Training models at 3 AM
+**AI/ML Engineer** | **Kggle Expert** | Building production systems that scale | Training models at 3 AM
 
 Currently pursuing B.Tech in Data Science & AI at IIT Bhilai
 
