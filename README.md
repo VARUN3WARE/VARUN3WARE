@@ -53,6 +53,23 @@ Production-grade multi-agent medical information retrieval system.
 
 ---
 
+## Open Source
+
+### [HFlow](https://github.com/Hebbian-Robotics/hflow) — Robotics data pipeline (Hebbian Robotics)
+
+Contributions merged upstream after maintainer review. Focused on delivery integrity, LeRobot import paths, and bucket-capable catalog/import flows.
+
+| Area | What shipped |
+| --- | --- |
+| **Verify family** | `hflow verify lerobot-import` — check prepared-manifest receipts under the verified root ([#454](https://github.com/Hebbian-Robotics/hflow/pull/454)); shared `VerificationReport` contract with snapshot verify |
+| **Snapshot integrity** | Table + copied-asset integrity receipts in `format.json` ([#401](https://github.com/Hebbian-Robotics/hflow/pull/401) / [#397](https://github.com/Hebbian-Robotics/hflow/issues/397)) |
+| **LeRobot import** | Bucket data roots + resumable multi-episode import paths ([#304](https://github.com/Hebbian-Robotics/hflow/pull/304), [#303](https://github.com/Hebbian-Robotics/hflow/pull/303)) |
+| **Catalog UI** | Bucket catalog support for `hflow catalog ui` ([#305](https://github.com/Hebbian-Robotics/hflow/pull/305)) |
+
+**Stack:** Python, MCAP, DuckDB/Parquet, CLI, storage roots (local + object store)
+
+---
+
 ## Experience
 
 **Team Lead** — Autonomous Financial Intelligence Platform  
