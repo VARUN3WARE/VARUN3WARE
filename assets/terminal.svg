@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="324" viewBox="0 0 860 324" role="img" aria-label="19 merged upstream pull requests">
+  <defs>
+    <linearGradient id="bar" x1="0" x2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#bc8cff"/>
+    </linearGradient>
+    <clipPath id="cmd"><rect x="62" y="52" height="26" width="0">
+      <animate attributeName="width" values="0.0;8.4;16.8;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8;109.2;117.6;126.0;134.4;142.8;151.2;159.6;168.0;176.4;184.8;193.2;201.6;210.0;218.4;226.8;235.2;243.6;252.0;260.4;268.8;277.2;285.6;294.0;302.4;310.8;319.2;327.6;336.0;344.4;352.8;361.2;369.6;378.0;386.4;394.8;403.2;411.6;420.0;428.4;436.8;445.2;453.6" keyTimes="0.0000;0.0185;0.0370;0.0556;0.0741;0.0926;0.1111;0.1296;0.1481;0.1667;0.1852;0.2037;0.2222;0.2407;0.2593;0.2778;0.2963;0.3148;0.3333;0.3519;0.3704;0.3889;0.4074;0.4259;0.4444;0.4630;0.4815;0.5000;0.5185;0.5370;0.5556;0.5741;0.5926;0.6111;0.6296;0.6481;0.6667;0.6852;0.7037;0.7222;0.7407;0.7593;0.7778;0.7963;0.8148;0.8333;0.8519;0.8704;0.8889;0.9074;0.9259;0.9444;0.9630;0.9815;1.0000" calcMode="discrete" dur="2.43s" begin="0.4s" fill="freeze"/>
+    </rect></clipPath>
+  </defs>
+
+  <rect width="860" height="324" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0 12a12 12 0 0 1 12-12h836a12 12 0 0 1 12 12v24H0z" fill="#161b22"/>
+  <circle cx="24" cy="18" r="6" fill="#ff5f56"/><circle cx="44" cy="18" r="6" fill="#ffbd2e"/><circle cx="64" cy="18" r="6" fill="#27c93f"/>
+  <text x="430.0" y="23" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b949e">varun@iit-bhilai: ~/open-source</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14">
+    <text x="28" y="70" fill="#7ee787">~ $</text>
+    <g clip-path="url(#cmd)"><text x="62" y="70" fill="#e6edf3">gh search prs --author VARUN3WARE --merged --not-owner</text></g>
+
+    <g opacity="0"><set attributeName="opacity" to="1" begin="3.18s" fill="freeze"/><text x="28" y="96" fill="#e6edf3">Hebbian-Robotics/hflow</text><text x="330" y="96" fill="#7ee787">12 merged</text></g><rect x="470" y="83" width="0" height="14" rx="3" fill="url(#bar)"><animate attributeName="width" values="0;280.0" dur="0.9s" begin="3.33s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect><g opacity="0"><set attributeName="opacity" to="1" begin="3.53s" fill="freeze"/><text x="28" y="122" fill="#e6edf3">ArgusLabs-ai/ARGUS</text><text x="330" y="122" fill="#7ee787">4 merged</text></g><rect x="470" y="109" width="0" height="14" rx="3" fill="url(#bar)"><animate attributeName="width" values="0;93.3" dur="0.9s" begin="3.68s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect><g opacity="0"><set attributeName="opacity" to="1" begin="3.88s" fill="freeze"/><text x="28" y="148" fill="#e6edf3">kornia/kornia</text><text x="330" y="148" fill="#7ee787">2 merged</text></g><rect x="470" y="135" width="0" height="14" rx="3" fill="url(#bar)"><animate attributeName="width" values="0;46.7" dur="0.9s" begin="4.03s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect><g opacity="0"><set attributeName="opacity" to="1" begin="4.23s" fill="freeze"/><text x="28" y="174" fill="#e6edf3">NVIDIA/nvcf</text><text x="330" y="174" fill="#7ee787">1 merged</text></g><rect x="470" y="161" width="0" height="14" rx="3" fill="url(#bar)"><animate attributeName="width" values="0;23.3" dur="0.9s" begin="4.38s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect><g opacity="0"><set attributeName="opacity" to="1" begin="4.58s" fill="freeze"/><text x="28" y="200" fill="#e6edf3">shap/shap</text><text x="330" y="200" fill="#d29922">2 open</text></g><rect x="470" y="187" width="24" height="14" rx="3" fill="none" stroke="#d29922" stroke-dasharray="3 3" opacity="0"><set attributeName="opacity" to="1" begin="4.73s" fill="freeze"/></rect>
+
+    <g opacity="0"><set attributeName="opacity" to="1" begin="5.53s" fill="freeze"/>
+      <line x1="28" y1="230" x2="832" y2="230" stroke="#30363d"/>
+      <text x="28" y="252" fill="#8b949e">total</text>
+      <text x="330" y="252" fill="#7ee787" font-weight="700">19 merged upstream</text>
+      <text x="520" y="252" fill="#d29922">2 awaiting review</text>
+    </g>
+
+    <g opacity="0"><set attributeName="opacity" to="1" begin="5.93s" fill="freeze"/>
+      <text x="28" y="278" fill="#7ee787">~ $</text>
+      <rect x="62" y="264" width="9" height="18" fill="#e6edf3">
+        <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
