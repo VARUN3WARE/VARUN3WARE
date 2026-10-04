@@ -126,9 +126,8 @@ INFRA       CUDA · Docker · Kubernetes · AWS · GCP · FastAPI · GitHub Acti
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VARUN3WARE/VARUN3WARE/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/VARUN3WARE/VARUN3WARE/output/github-contribution-grid-snake.svg"/>
-</picture>
+<p align="center">
+  <img alt="Contribution graph: Vegeta's Galick Gun clashes with Goku's Kamehameha" src="https://raw.githubusercontent.com/VARUN3WARE/VARUN3WARE/output/dbz-clash.svg" width="100%"/>
+</p>
 
 `train → evaluate → break it on purpose → ship`

@@ -1,0 +1,30 @@
+name: Generate DBZ contribution clash
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render Vegeta vs Goku clash from the contribution calendar
+        run: python3 dbz_contributions.py ${{ github.repository_owner }} dist/dbz-clash.svg
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Update DBZ contribution clash
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
