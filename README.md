@@ -112,7 +112,6 @@ Platform for deploying and routing GPU-accelerated inference, streaming, and bat
 - **Kaggle Expert.** Silver medal in the MITSUI Commodity Prediction Challenge (rank 36 of 1,711); top 10% in GQ Volatility Forecasting (rank 34 of 386).
 - **Amazon ML Challenge 2025.** All-India rank 278.
 - **Winner, Pixel Perfect Hackathon** (IIT Bhilai). Improved the baseline by 23%.
-- **YC Startup School India**, Bengaluru 2026.
 - **Technical writer.** 70+ ML articles on Medium with 800+ monthly readers.
 
 ## Toolbox
