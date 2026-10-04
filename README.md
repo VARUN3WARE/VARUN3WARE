@@ -128,8 +128,8 @@ INFRA       CUDA · Docker · Kubernetes · AWS · GCP · FastAPI · GitHub Acti
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VARUN3WARE/VARUN3WARE/output/snake-dark.svg"/>
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/VARUN3WARE/VARUN3WARE/output/snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VARUN3WARE/VARUN3WARE/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/VARUN3WARE/VARUN3WARE/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 `train → evaluate → break it on purpose → ship`
