@@ -4,7 +4,7 @@
 
 **AI/ML engineer at IIT Bhilai (B.Tech, Data Science & AI)** building agent reliability tooling, robotics data infrastructure, and ML systems that survive outside notebooks.
 
-[varunrao.is-a.dev](https://varunrao.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/varun3ware/) · [Medium](https://medium.com/@varunrao.aiml) · [X](https://x.com/VarunrRao) · [Email](mailto:varunr@iitbhilai.ac.in)
+[varunrao.is-a.dev](https://varunrao.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/varun3ware/) · [Medium](https://medium.com/@varunrao.aiml) · [X](https://x.com/varun_slops) · [Email](mailto:varunr@iitbhilai.ac.in)
 
 [![Merged upstream PRs](https://img.shields.io/badge/merged%20upstream%20PRs-19-2ea44f?logo=github)](#open-source)
 [![HFlow](https://img.shields.io/badge/HFlow-12%20merged-6f42c1)](https://github.com/Hebbian-Robotics/hflow/pulls?q=is%3Apr+author%3AVARUN3WARE+is%3Amerged)
@@ -90,21 +90,21 @@ Platform for deploying and routing GPU-accelerated inference, streaming, and bat
 | Project | What I built |
 | --- | --- |
 | [Human Slop](https://humanslop.in) | Anti-AI social platform that scores how human a post is from keystroke dynamics (WPM, bursts, pauses), with hardware-bound auth. Deployed on web and mobile. |
-| [pytorch-dml](https://github.com/VARUN3WARE/dml-py) · [PyPI](https://pypi.org/project/pytorch-dml/) | PyTorch library for Deep Mutual Learning and knowledge distillation, with AMP, DDP, and ONNX export. 2–5% accuracy gain over independent training. |
-| [Hedgera](https://github.com/VARUN3WARE/Hedgera) | Multi-agent trading system combining real-time streaming, RL forecasting, and LLM debate. Led an 8-person team; about 20% returns with 5–8% max drawdown in backtests and paper trading. |
+| [pytorch-dml](https://github.com/VARUN3WARE/dml-py) · [PyPI](https://pypi.org/project/pytorch-dml/) | PyTorch library for Deep Mutual Learning and knowledge distillation, with mixed precision and ONNX export. On CIFAR-10, two mutually trained ResNet-32s beat independent training (93.86% vs 93.50%). |
+| [Hedgera](https://github.com/VARUN3WARE/Hedgera) | Multi-agent trading system combining real-time streaming, PPO (FinRL) allocation, LLM debate, and SHAP/LIME explanations. Led an 8-person team at Inter IIT Tech Meet 14.0 (AEGIS). |
 | [Paged-Attention](https://github.com/VARUN3WARE/Paged-Attention) | Implementation of PagedAttention from the vLLM paper, managing the KV cache in pages like virtual memory. |
 | [ArthJAX](https://github.com/VARUN3WARE/ArthJAX) | GPU-accelerated agent-based macroeconomic simulator in JAX with households, banks, contagion, and shocks. |
-| [RAPIDADB](https://github.com/VARUN3WARE/RAPIDADB) | GPU-native vector database in C++/CUDA and PyTorch for sub-millisecond similarity search. |
+| [RAPIDADB](https://github.com/VARUN3WARE/RAPIDADB) | GPU-native vector database in C++/CUDA with PyTorch bindings: 1,349 QPS at 100% Recall@10 on 100K vectors, 6× faster than FAISS-CPU. |
 | [BPlusSQL](https://github.com/VARUN3WARE/BPlusSQL) | Disk-backed B+ tree storage engine in C++17 with an LRU buffer pool and write-ahead logging. |
-| [Kerala Ayurveda RAG](https://github.com/VARUN3WARE/Kerala-Ayurveda-RAG) | Medical RAG system using corrective RAG and hybrid BM25 + vector retrieval. Under 10% hallucination rate on RAGAS. |
+| [Kerala Ayurveda RAG](https://github.com/VARUN3WARE/Kerala-Ayurveda-RAG) | Medical RAG system using corrective RAG, hybrid BM25 + vector retrieval, and a contraindication knowledge graph, evaluated with RAGAS. |
 | [evalforge](https://github.com/VARUN3WARE/evalforge) | Engine that scores and stress-tests ML models for reliability, robustness, and hidden failures before deployment. |
 
 ---
 
 ## Experience
 
-- **AI Developer Intern, Kartavya Technology** (remote, Jun–Aug 2024). Built multi-agent automation and cloud APIs on AWS and GCP; cut manual effort by 40% and infrastructure costs by 25%.
-- **Team Lead, Autonomous Financial Intelligence Platform** (IIT Bhilai, Oct–Dec 2025). Led the 8-person team behind Hedgera.
+- **AI Developer Intern, Kartavya Technology** (remote, Jun–Aug 2024). Built multi-agent automation and cloud APIs on AWS and GCP; cut manual effort by 40% and kept the APIs at 99.9% uptime with CI/CD.
+- **Team Lead, AEGIS Financial Intelligence** (Inter IIT Tech Meet 14.0, IIT Bhilai, Oct–Dec 2025). Led the 8-person team behind Hedgera.
 - **Coordinator, Data Science & AI Club, IIT Bhilai.** Ran workshops and hackathons.
 
 ## Achievements
